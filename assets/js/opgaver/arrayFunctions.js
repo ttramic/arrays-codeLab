@@ -99,6 +99,24 @@ console.log(myYummies);
 
 //.........................................................
 
+/* opgave 7 map()
+ brug map funktionen på myNumbers, og skab en ny array, der hedder myNextNumbers hvor alle tal er 7 større end 
+ tallene i myNumbers. brug igen map funktionen på din nye array, myNextNumbers. og skab en ny array
+  der hedder myLastNumbers der indeholder tal der er 12 gange så store som tallene i myNextNumbers.
+ */
+let myNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
+// din kode her...
+console.log(myNextNumbers);
+console.log(myLastNumbers);
+
+//.........................................................
+/* opgave 8 filter()
+skriv en kode der kan give os en ny array, udfra myNames, hvor navnet keld ikke findes i.
+*/
+let myNames = ['keld', 'søren', 'jens', 'tine', 'keld', 'ib', 'lene', 'keld', 'frederikke', 'line', 'kurt'];
+
+
+//.........................................................
 
 
